@@ -1,0 +1,3 @@
+C:/Development/C++/LuaCalculator/cmake-build-debug/CMakeFiles/LuaCalculator.dir
+C:/Development/C++/LuaCalculator/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Development/C++/LuaCalculator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
